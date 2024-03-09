@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RAYCHEV
-- 👀 I’m interested in iOS, MacOS X, iWatch OS development
-- 🌱 I’m currently learning iOS / Swift Swift UI development
-- 💞️ I’m looking to collaborate on swift projects
+- 👀 I’m interested in iOS, Mobile and APS.NET CORE with C# Development
+- 🌱 I’m currently learning C#, Networking, Dynamics 365
+- 💞️ I’m looking to collaborate on Native iOS or C# projects. 
 - 📫 Reach me by email 
 
 <!---
