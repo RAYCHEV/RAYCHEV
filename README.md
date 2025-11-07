@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RAYCHEV
-- 👀 I’m interested in native iOS, JS and python based technologies.  
-- 🌱 I’m currently learning Swift / SwiftUI, Networking, Dynamics 365
-- 💞️ I’m looking to collaborate on Native iOS or Web based projects. 
+- 👀 I’m interested in JS and native mobile based technologies.  
+- 🌱 I’m currently learning JS, React Native, React, MS Dynamics, Swift/Swift UI, Kotlin
+- 💞️ I’m looking to collaborate on any software and hardware projects. 
 - 📫 Reach me by email or by using the contact form on https://theXcoder.com
 
 <!---
